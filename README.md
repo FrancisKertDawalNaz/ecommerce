@@ -23,3 +23,4 @@ ShopMate is a sleek, responsive e-commerce web interface built with **Bootstrap 
 
 ## 📁 File Structure
 
+new version
